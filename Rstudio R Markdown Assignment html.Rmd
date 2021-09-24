@@ -1,0 +1,23 @@
+---
+title: "Assignment 1"
+author: "Jerald Tan"
+date: "9/24/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown Assignment 1
+
+In this R Markdown file, we have included the codes to the following projects respectively.
+
+1. R_studio Code
+```{r code}
+   
+for (i in 1:10) {
+  print (i)
+}
+
+```
